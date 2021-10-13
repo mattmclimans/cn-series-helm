@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   cn-series:
   - apiVersion: v2
-    appVersion: 10.1.0
+    appVersion: 10.0.2
     created: "2020-10-27T12:52:21.103414-04:00"
     description: Palo Alto Networks CN-Series firewall Helm chart for Kubernetes
     digest: b9e3eebb12f3a36e8fbc85edb8525eec043ccc4a61e4e5a7659783b0d6ccf7bd
